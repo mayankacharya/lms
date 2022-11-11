@@ -1,0 +1,15 @@
+.center {
+  display: flex;
+  height: 300px;
+  /* background-color: #ff1124; */
+  justify-content: center;
+  align-items: center;
+}
+.matfield{
+  width: 500px;
+}
+
+#submit{
+  float: right;
+  margin-right: 21px;
+}
